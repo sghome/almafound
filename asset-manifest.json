@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/almafound/static/css/main.8061f892.chunk.css",
+    "main.js": "/almafound/static/js/main.38cba644.chunk.js",
+    "main.js.map": "/almafound/static/js/main.38cba644.chunk.js.map",
+    "runtime~main.js": "/almafound/static/js/runtime~main.54a4ea33.js",
+    "runtime~main.js.map": "/almafound/static/js/runtime~main.54a4ea33.js.map",
+    "static/js/2.64ba29d5.chunk.js": "/almafound/static/js/2.64ba29d5.chunk.js",
+    "static/js/2.64ba29d5.chunk.js.map": "/almafound/static/js/2.64ba29d5.chunk.js.map",
+    "index.html": "/almafound/index.html",
+    "precache-manifest.2422a1f8bc4abb3b0d88c2645460a6bd.js": "/almafound/precache-manifest.2422a1f8bc4abb3b0d88c2645460a6bd.js",
+    "service-worker.js": "/almafound/service-worker.js",
+    "static/css/main.8061f892.chunk.css.map": "/almafound/static/css/main.8061f892.chunk.css.map"
+  }
+}
